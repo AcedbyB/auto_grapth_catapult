@@ -1,1 +1,3 @@
-# java_catapult_game
+# Auto graph catapult
+
+Java catapult game with auto graphing
